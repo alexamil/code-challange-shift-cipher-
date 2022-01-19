@@ -1,4 +1,4 @@
-# code-challange-shift-cipher
+# code-challenge-shift-cipher
 A shift cipher takes a plain text message and shifts each letter forward in the alphabet by a given number. For example, a shift cipher with a shift of 1 would turn the string 'hello' to 'ifmmp'.
 
 Create a class ShiftCipher that takes the numerical value of the shift as a constructor parameter. The class should have two methods:
